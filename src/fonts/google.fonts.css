@@ -1,0 +1,50 @@
+/* cyrillic */
+@font-face {
+    font-family: 'Fira Sans Condensed';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(/src/fonts/Fira_Sans_Condensed/FiraSansCondensed-Regular.ttf) format('opentype');
+}
+/* cyrillic */
+@font-face {
+    font-family: 'Fira Sans Condensed';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url(/src/fonts/Fira_Sans_Condensed/FiraSansCondensed-Bold.ttf) format('opentype');  }
+
+
+
+/* cyrillic */
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(/src/fonts/Roboto/Roboto-Regular.ttf) format('opentype');
+}
+/* cyrillic */
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url(/src/fonts/Roboto/Roboto-Bold.ttf) format('opentype');
+}
+
+
+/* cyrillic */
+@font-face {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(/src/fonts/Rubik/Rubik-Regular.ttf) format('opentype');  }
+/* cyrillic */
+@font-face {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url(/src/fonts/Rubik/Rubik-Bold.ttf) format('opentype');  }

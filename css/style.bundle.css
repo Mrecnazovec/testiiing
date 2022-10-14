@@ -3634,7 +3634,9 @@ header .fixed-header-block .fixed-header-wr {
     height: 100%;
     display: flex;
     align-items: center;
-    padding: 0
+    padding: 0;
+    justify-content: space-between;
+    
 }
 
 @media screen and (max-width:1900px) {
@@ -3828,7 +3830,7 @@ header .fixed-header-block .fixed-header-wr .bottom-header-menu {
     flex-shrink: 0
 }
 
-@media screen and (max-width:1344px) {
+@media screen and (max-width:1023px) {
     header .fixed-header-block .fixed-header-wr .bottom-header-menu {
         display: none
     }
@@ -3897,7 +3899,7 @@ header.fixed-header .fixed-header-block .telegram-link {
     }
 
     header.fixed-header .fixed-header-block .bottom-header-menu .bottom-header-link:first-child {
-        display: none
+        /* display: none */
     }
 
     header.fixed-header .fixed-header-block .fixed-header-wr .action-header-block {

@@ -4059,9 +4059,10 @@ footer .bottom-footer-block {
 footer .bottom-footer-block .footer-logo-block {
     margin-right: 286px
 }
+
 .footer-logo h1 {
     margin-top: 50px;
-    
+
 }
 
 @media screen and (max-width:1900px) {
@@ -4084,9 +4085,10 @@ footer .bottom-footer-block .footer-logo-block {
         margin: 22px 0 72px;
         width: 100%
     }
+
     .footer-logo h1 {
         margin-top: 0;
-        
+
     }
 }
 
@@ -4230,6 +4232,7 @@ footer .bottom-footer-block .footer-contact-block .block-title {
     margin-bottom: 10px;
     font-size: 16px
 }
+
 .footer-logo a h1 {
     margin-top: 50px;
 }
@@ -4239,6 +4242,7 @@ footer .bottom-footer-block .footer-contact-block .block-title {
         margin-top: 0px;
     }
 }
+
 @media screen and (max-width:575px) {
     footer .bottom-footer-block .footer-contact-block .block-title {
         border-bottom: 1px solid #c2c1c1;
@@ -5376,9 +5380,11 @@ footer.basket {
         justify-content: space-between
     }
 }
+
 .product-card {
     height: fit-content;
 }
+
 .product-mesh .product-card {
     margin-right: 48px;
     margin-bottom: 32px
@@ -5711,6 +5717,10 @@ footer.basket {
     left: 50%;
     top: 50%;
     transform: translateX(-50%) translateY(-50%)
+}
+
+.arrow-slider {
+    background-color: rgb(202, 202, 202) !important;
 }
 
 .product-page .product-row .product-photo-wr .slider-big-img .arrow-slider {
